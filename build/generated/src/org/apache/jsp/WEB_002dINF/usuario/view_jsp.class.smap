@@ -1,0 +1,18 @@
+SMAP
+view_jsp.java
+JSP
+*S JSP
+*F
++ 0 view.jsp
+WEB-INF/usuario/view.jsp
+*L
+1,5:46
+7,3:52
+9,20:55
+28,2:75
+29,2:77
+31,4:79,3
+35,2:91
+37,2:94
+38,21:96
+*E
